@@ -6,6 +6,7 @@
 </a>
 <br>
 <a href="https://takwamn.github.io/myPortfolio.io/">
-<i class="fa-sharp fa-regular fa-globe-pointer"></i>
+  <i class="fas fa-up-right-from-square"></i>
 </a>
+
 I currently work as a FullStack Software Engineer 🔭, based in Tunis, Tunisia. Alongside my professional commitments, I enjoy working on side projects. I'm deeply passionate about web development. Don't hesitate to reach out to me 💬 for freelance opportunities or collaborative open-source projects! 😄
