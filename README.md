@@ -6,6 +6,7 @@
 </a>
 <br>
 <a href="https://takwamn.github.io/myPortfolio.io/">
-  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Internet_Explorer_logo.png">
+  <img width="30" src="![image](https://github.com/takwamn/takwamn/assets/50061382/88473d51-28a4-4d9b-b351-db5378c409f9)
+">
 </a>
 I currently work as a FullStack Software Engineer 🔭, based in Tunis, Tunisia. Alongside my professional commitments, I enjoy working on side projects. I'm deeply passionate about web development. Don't hesitate to reach out to me 💬 for freelance opportunities or collaborative open-source projects! 😄
