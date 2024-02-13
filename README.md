@@ -4,6 +4,7 @@
 <a href="https://www.linkedin.com/in/takwa-manai/">
   <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
 </a>
+&nbsp;&nbsp;
 <a href="https://takwamn.github.io/myPortfolio.io/">
     <img width="30" src="https://github.com/takwamn/takwamn/assets/50061382/b81d4bba-8580-4e47-ba3d-c733dfe9fe4c" alt="myPortfolio.io">
   <p>myPortfolio.io</p>
