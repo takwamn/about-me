@@ -1,6 +1,7 @@
 # Takwa's Profile
 
 ### Hello there! 👋 I'm Takwa.
+Connect with me:
 <a href="https://www.linkedin.com/in/takwa-manai/">
   <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
 </a>
