@@ -13,7 +13,7 @@ Connect with me:
 - 📄 Know about my experiences https://cvdesignr.com/p/62796ef8b62e8
 
 <br>
-<h2>I currently work as a FullStack Software Engineer 🔭, based in Tunis, Tunisia. Alongside my professional commitments, I enjoy working on side projects. I'm deeply passionate about web development. Don't hesitate to reach out to me 💬 for freelance opportunities or collaborative open-source projects! 😄</h2>
+<h3 align="center">I currently work as a FullStack Software Engineer 🔭, based in Tunis, Tunisia. Alongside my professional commitments, I enjoy working on side projects. I'm deeply passionate about web development. Don't hesitate to reach out to me 💬 for freelance opportunities or collaborative open-source projects! 😄</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
