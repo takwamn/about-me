@@ -6,15 +6,10 @@
 <h4 align="center">I currently work as a FullStack Software Engineer 🔭, based in Tunis, Tunisia. Alongside my professional commitments, I enjoy working on side projects. I'm deeply passionate about web development. Don't hesitate to reach out to me 💬 for freelance opportunities or collaborative open-source projects! 😄</h4>
 
 ### Connect with Me:
-<p align="left">
-<a href="https://www.linkedin.com/in/takwa-manai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayenne-brik" height="30" width="40" /></a>
-</p>
-<a href="https://takwamn.github.io/myPortfolio.io/" style="display: inline-block;">
-  <p style="display: inline;">myPortfolio.io</p>
-</a>
+- LinkedIn: [Takwa Manai](https://www.linkedin.com/in/takwa-manai)
+- Portfolio: [myPortfolio.io](https://takwamn.github.io/myPortfolio.io/)
+- CV: [Experiences](https://cvdesignr.com/p/62796ef8b62e8)
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-- 📄 Know about my experiences https://cvdesignr.com/p/62796ef8b62e8
 
 ### Languages and Tools:
 <p align="left">  
